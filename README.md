@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/ashutosh-mulik/ashutosh-mulik/main/saly.png" />
+<p align="center">
+  <img width="460" height="460" src="https://raw.githubusercontent.com/ashutosh-mulik/ashutosh-mulik/main/saly.png">
+</p>
 
 ***
 
