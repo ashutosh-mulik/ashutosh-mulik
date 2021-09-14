@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="460" src="https://raw.githubusercontent.com/ashutosh-mulik/ashutosh-mulik/main/saly.png">
+  <img width="480" height="460" src="https://raw.githubusercontent.com/ashutosh-mulik/ashutosh-mulik/main/saly.png">
 </p>
 
 ---
