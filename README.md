@@ -4,8 +4,6 @@
 
 ***
 
-### Hey, Nice to see you : 🥰
-
 <img align="right" height="150rem" alt="GIF" src="https://media.giphy.com/media/6OrCT1jVbonHG/giphy.gif" />
 
 - 👋 Hi, I’m Ashutosh Mulik
