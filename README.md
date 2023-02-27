@@ -12,6 +12,3 @@
 ---
 
 ![](https://komarev.com/ghpvc/?username=ashutosh-mulik&style=flat-square)
-
----
-<img src="https://raw.githubusercontent.com/ashutosh-mulik/ashutosh-mulik/output/snake.svg" alt="Snake animation" />
