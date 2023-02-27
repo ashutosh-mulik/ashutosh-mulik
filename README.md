@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-mulik&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-mulik" /> </p>
 
-<img src="https://raw.githubusercontent.com/ashutosh-mulik/ashutosh-mulik/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ashutosh-mulik/ashutosh-mulik/output/snake.svg" alt="Snake animation" />
 
 ###
 
